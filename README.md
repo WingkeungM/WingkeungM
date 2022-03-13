@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yongqiang Mao 🤓, pursuing on my Ph.D. 💪 now and working on computer vision, pattern recognition, especially on 3D computer vision, semantic segmentation, few-shot learing, etc.
+I'm Yongqiang Mao 🤓, pursuing on my Ph.D. 💪 now and working on computer vision, pattern recognition, especially on 3D point cloud, semantic segmentation, few-shot learing, etc.
 <!--
 **WingkeungM/WingkeungM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
