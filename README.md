@@ -9,7 +9,7 @@ I'm __[Yongqiang Mao](https://wingkeungm.github.io/)__ 🤓, pursuing on my Ph.D
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=dark" alt="WingkeungM" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=synthwave" alt="WingkeungM" />
 
   
 </details>
