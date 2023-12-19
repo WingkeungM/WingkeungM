@@ -1,4 +1,4 @@
-## Yongqiang Mao 👋
+## Yong-Qiang Mao 👋
 
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
@@ -9,7 +9,7 @@ I'm __[Yongqiang Mao](https://wingkeungm.github.io/)__ 🤓, pursuing on my Ph.D
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=synthwave" alt="WingkeungM" />     
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=synthwave" alt="WingkeungM" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingkeungM&theme=tokyonight&layout=compact" height="150"> </div>
 </details>
 <!--
 **WingkeungM/WingkeungM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
