@@ -11,7 +11,7 @@ I'm __[Yongqiang Mao](https://wingkeungm.github.io/)__ 🤓, pursuing on my Ph.D
 ## Projects
 
 <div align=center>
-<img src="https://github.com/WingkeungM/WingkeungM/assets/43365824/e8d506a2-3d66-482d-a71b-c7e9b7ddf867" width=400 height=300/>
+<img src="./3DBuildings.mp4" width=400 height=300/>
 </div>
 
 <!--
