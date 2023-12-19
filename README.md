@@ -6,18 +6,10 @@
 
 I'm __[Yongqiang Mao](https://wingkeungm.github.io/)__ 🤓, pursuing on my Ph.D. 💪 now and working on computer vision, pattern recognition, especially on 3D point cloud, few-shot learning, semantic segmentation, object detection, etc.
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=synthwave" alt="WingkeungM" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingkeungM&theme=tokyonight&layout=compact" height="150"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=synthwave" alt="WingkeungM" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingkeungM&theme=tokyonight&layout=compact" height="200"> </div>
 
-## Projects
-
-<div align=center>
-<img src="./3DBuildings.mp4" width=400 height=300/>
-</div>
 
 <!--
-<details>
-<summary>📈 My GitHub Stats</summary>
-</details>
 **WingkeungM/WingkeungM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,4 +22,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Projects
+
+<div align=center>
+<img src="./3DBuildings.mp4" width=400 height=300/>
+</div>
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+</details>
+
 -->
