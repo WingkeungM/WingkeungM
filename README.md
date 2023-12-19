@@ -6,7 +6,7 @@
 
 I'm __[Yongqiang Mao](https://wingkeungm.github.io/)__ 🤓, pursuing on my Ph.D. 💪 now and working on computer vision, pattern recognition, especially on 3D point cloud, few-shot learning, semantic segmentation, object detection, etc.
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=synthwave" alt="WingkeungM" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingkeungM&theme=tokyonight&layout=compact" height="200"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WingkeungM&show_icons=true&theme=synthwave" alt="WingkeungM" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingkeungM&theme=tokyonight&layout=compact" height="180"> </div>
 
 
 <!--
